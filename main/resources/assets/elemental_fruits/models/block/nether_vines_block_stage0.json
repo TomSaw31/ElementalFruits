@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "elemental_fruits:block/nether_vines_block_stage0"
+  },
+  "render_type": "cutout"
+}

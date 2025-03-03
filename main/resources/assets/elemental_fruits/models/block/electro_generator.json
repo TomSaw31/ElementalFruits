@@ -1,0 +1,86 @@
+{
+	"parent": "block/block",
+	"render_type": "cutout",
+	"textures": {
+		"3": "elemental_fruits:block/electric_particle",
+		"particle": "block/glass",
+		"glass": "block/glass",
+		"obsidian": "block/obsidian",
+		"generator": "elemental_fruits:block/electro_generator"
+	},
+	"elements": [
+		{
+			"name": "Glass shell",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#glass"}
+			}
+		},
+		{
+			"name": "Obsidian base",
+			"from": [2, 0.1, 2],
+			"to": [14, 3, 14],
+			"faces": {
+				"north": {"uv": [2, 13, 14, 16], "texture": "#obsidian"},
+				"east": {"uv": [2, 13, 14, 16], "texture": "#obsidian"},
+				"south": {"uv": [2, 13, 14, 16], "texture": "#obsidian"},
+				"west": {"uv": [2, 13, 14, 16], "texture": "#obsidian"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#obsidian"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#obsidian"}
+			}
+		},
+		{
+			"name": "Inner core texture",
+			"from": [5, 5, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [3, 2, 13, 13], "texture": "#generator"},
+				"east": {"uv": [3, 2, 13, 13], "texture": "#generator"},
+				"south": {"uv": [3, 2, 13, 13], "texture": "#generator"},
+				"west": {"uv": [3, 2, 13, 13], "texture": "#generator"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#generator"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#generator"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [0, 16, 22],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [-6, 0, 1],
+			"to": [16, 16, 1],
+			"rotation": {"angle": 45, "axis": "y", "origin": [15, 1, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "generator",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

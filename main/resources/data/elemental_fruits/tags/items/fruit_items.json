@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "elemental_fruits:fire_fruit",
+    "elemental_fruits:water_fruit",
+    "elemental_fruits:electro_fruit",
+    "elemental_fruits:plasma_fruit",
+    "elemental_fruits:steam_fruit",
+    "elemental_fruits:nether_fruit",
+    "elemental_fruits:crimson_fruit",
+    "elemental_fruits:warped_fruit",
+    "elemental_fruits:soul_fire_fruit",
+    "elemental_fruits:soul_fruit",
+    "elemental_fruits:soul_sand_fruit",
+    "elemental_fruits:sand_fruit",
+    "elemental_fruits:stone_fruit"
+  ]
+}

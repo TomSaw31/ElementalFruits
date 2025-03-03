@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "F": {
+      "item": "elemental_fruits:fire_fruit"
+    }
+  },
+  "pattern": [
+    "NF",
+    "FN"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:magma_block"
+  },
+  "show_notification": true
+}

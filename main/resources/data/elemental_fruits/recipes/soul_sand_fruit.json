@@ -1,0 +1,14 @@
+{
+  "type": "elemental_fruits:fruit_synthesis",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:sand_fruit"
+    },
+    {
+      "item": "elemental_fruits:nether_fruit"
+    }
+  ],
+  "output": {
+    "item": "elemental_fruits:soul_sand_fruit_seeds"
+  }
+}

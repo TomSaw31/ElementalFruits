@@ -1,0 +1,14 @@
+{
+  "type": "elemental_fruits:fruit_synthesis",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:stone_fruit"
+    },
+    {
+      "item": "elemental_fruits:water_fruit"
+    }
+  ],
+  "output": {
+    "item": "elemental_fruits:sand_fruit_seeds"
+  }
+}

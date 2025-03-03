@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:crimson_fruit"
+    }
+  ],
+  "result": {
+    "item": "elemental_fruits:crimson_fruit_seeds"
+  }
+}

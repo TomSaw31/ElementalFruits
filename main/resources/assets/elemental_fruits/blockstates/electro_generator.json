@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "elemental_fruits:block/electro_generator"
+    }
+  }
+}

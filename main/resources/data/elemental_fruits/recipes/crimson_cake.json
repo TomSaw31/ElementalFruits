@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "elemental_fruits:fire_fruit"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "C": {
+      "item": "elemental_fruits:crimson_fruit"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "BEB",
+    "WWW"
+  ],
+  "result": {
+    "item": "elemental_fruits:crimson_cake"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:electro_fruit"
+    }
+  ],
+  "result": {
+    "item": "elemental_fruits:electro_fruit_seeds"
+  }
+}

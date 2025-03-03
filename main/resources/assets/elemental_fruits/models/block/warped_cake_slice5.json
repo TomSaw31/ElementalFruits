@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "elemental_fruits:block/warped_cake_side",
+        "bottom": "elemental_fruits:block/warped_cake_bottom",
+        "top": "elemental_fruits:block/warped_cake_top",
+        "side": "elemental_fruits:block/warped_cake_side",
+        "inside": "elemental_fruits:block/warped_cake_inner"
+    },
+    "elements": [
+        {   "from": [ 11, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

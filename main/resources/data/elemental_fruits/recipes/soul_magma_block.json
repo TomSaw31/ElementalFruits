@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "F": {
+      "item": "elemental_fruits:soul_fire_fruit"
+    }
+  },
+  "pattern": [
+    "SF",
+    "FS"
+  ],
+  "result": {
+    "count": 2,
+    "item": "elemental_fruits:soul_magma_block"
+  },
+  "show_notification": true
+}

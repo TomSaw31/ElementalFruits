@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "elemental_fruits:stone_fruit"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "F",
+    "S",
+    "S"
+  ],
+  "result": {
+    "item": "elemental_fruits:stone_spear"
+  },
+  "show_notification": true
+}

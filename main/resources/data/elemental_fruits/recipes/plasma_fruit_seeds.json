@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:plasma_fruit"
+    }
+  ],
+  "result": {
+    "item": "elemental_fruits:plasma_fruit_seeds"
+  }
+}

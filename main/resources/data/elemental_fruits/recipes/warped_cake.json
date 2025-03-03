@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "elemental_fruits:water_fruit"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "C": {
+      "item": "elemental_fruits:warped_fruit"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "BEB",
+    "WWW"
+  ],
+  "result": {
+    "item": "elemental_fruits:warped_cake"
+  },
+  "show_notification": true
+}

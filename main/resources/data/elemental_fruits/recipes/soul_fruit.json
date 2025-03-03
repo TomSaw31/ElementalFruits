@@ -1,0 +1,14 @@
+{
+  "type": "elemental_fruits:fruit_synthesis",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:soul_fire_fruit"
+    },
+    {
+      "item": "elemental_fruits:water_fruit"
+    }
+  ],
+  "output": {
+    "item": "elemental_fruits:soul_fruit_seeds"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "elemental_fruits:block/warped_vines_block_stage3"
+  },
+  "render_type": "cutout"
+}

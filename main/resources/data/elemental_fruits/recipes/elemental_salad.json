@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:fire_fruit"
+    },
+    {
+      "item": "elemental_fruits:water_fruit"
+    },
+    {
+      "item": "elemental_fruits:electro_fruit"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "elemental_fruits:elemental_salad"
+  }
+}

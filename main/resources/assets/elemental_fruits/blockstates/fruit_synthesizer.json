@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "elemental_fruits:block/fruit_synthesizer"
+    },
+    "facing=east": {
+      "model": "elemental_fruits:block/fruit_synthesizer", "y": 90
+    },
+    "facing=south": {
+      "model": "elemental_fruits:block/fruit_synthesizer", "y": 180
+    },
+    "facing=west": {
+      "model": "elemental_fruits:block/fruit_synthesizer", "y": 270
+    }
+  }
+}

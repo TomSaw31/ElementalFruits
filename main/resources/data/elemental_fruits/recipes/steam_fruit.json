@@ -1,0 +1,14 @@
+{
+  "type": "elemental_fruits:fruit_synthesis",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:fire_fruit"
+    },
+    {
+      "item": "elemental_fruits:water_fruit"
+    }
+  ],
+  "output": {
+    "item": "elemental_fruits:steam_fruit_seeds"
+  }
+}

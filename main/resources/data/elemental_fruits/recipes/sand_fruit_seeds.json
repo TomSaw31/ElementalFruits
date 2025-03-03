@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "elemental_fruits:sand_fruit"
+    }
+  ],
+  "result": {
+    "item": "elemental_fruits:sand_fruit_seeds"
+  }
+}

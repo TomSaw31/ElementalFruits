@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "elemental_fruits:nether_fruit"
+    },
+    "W": {
+      "item": "elemental_fruits:warped_fruit"
+    },
+    "C": {
+      "item": "elemental_fruits:crimson_fruit"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    "FCW",
+    "CNW",
+    "CWF"
+  ],
+  "result": {
+    "item": "elemental_fruits:duality_stone"
+  },
+  "show_notification": true
+}
